@@ -1,0 +1,53 @@
+/* style.css */
+
+#homepage {
+    background-color: mediumaquamarine;
+}
+
+#spagballs_background {
+    background-color: orangered;
+}
+
+#cinnamon_background {
+    background-color: burlywood;
+}
+
+#pecan_background {
+    background-color: sienna;
+}
+
+.heading,
+.list 
+.recipe_description
+.recipe_heading
+.recipe_text {
+    font-family: Tahoma, 'Trebuchet MS', sans-serif;
+}
+
+.heading {
+    color: indigo;
+    font-size: 80px;
+    text-align: center;
+}
+
+.list {
+    color: orangered;
+    font-size: 40px;
+    text-align: center;
+}
+
+.recipe_description {
+    font-size: 38px;
+    font-family: Tahoma, 'Trebuchet MS', sans-serif;
+}
+
+.recipe_heading {
+    font-size: 40px;
+    font-family: Tahoma, 'Trebuchet MS', sans-serif;
+}
+
+.recipe_text {
+    font-size: 24px;
+    font-family: Tahoma, 'Trebuchet MS', sans-serif;
+
+}
